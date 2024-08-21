@@ -35,7 +35,7 @@
 
 
 <!--Intro start-->
-¡Hola! Soy un apasionado desarrollador de software con sede en Guatemala, siempre en busca de nuevos desafíos y oportunidades para aprender. Con 32 años, me motiva la innovación y me esfuerzo por sobresalir en cada proyecto que emprendo.
+¡Hola! Soy un apasionado desarrollador de software con sede en Guatemala, siempre en busca de nuevos desafíos y oportunidades para aprender. Me motiva la innovación y me esfuerzo por sobresalir en cada proyecto que emprendo.
 
 Mi viaje en el mundo de la programación es impulsado por un deseo constante de crecimiento y la ambición de colaborar en proyectos que marquen la diferencia. Estoy comprometido con la excelencia, la creatividad y la resolución de problemas, y tengo un interés particular en construir soluciones que realmente importen.
 
